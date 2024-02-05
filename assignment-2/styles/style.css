@@ -1,0 +1,78 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #E90000;
+text-align: center;
+margin-left: 2px;
+margin-right: 2px;
+}
+
+header {
+background-color: black;
+color: #E90000;
+border-radius: 12px;
+width: 75%;
+margin: 0 auto;
+}
+
+footer {
+background-color: blue;
+border-radius: 12px;
+color: #f9f9f9;
+min-height: 100px;
+width: 50%;
+margin: 0 auto;
+}
+
+h1 {
+font-size: 60px;
+font-family: 'Expose';
+font-weight: normal;
+margin-bottom: 0px;
+}
+
+h2 {
+font-size: 45px;
+font-family: 'P5Main';
+margin-top: 0px;
+}
+
+h3 {
+	font-size: 45px;
+	font-family: 'P5Menu';
+	margin-top: 0px;
+}
+
+p {
+	font-size: 22px;
+}
+
+.music-note {
+	width: 120px;
+}
+
+span:nth-of-type(odd) {
+	font-family: 'P5Main';
+}
+
+span:nth-of-type(even) {
+	font-family: 'P5Menu';
+	font-size: 26px;
+}
+
+
+/** Prepare our Custom Font **/
+@font-face {
+	font-family: Expose;
+	src: url("../fonts/Expose-Regular.otf");
+}
+
+@font-face {
+	font-family: P5Main;
+	src: url("../fonts/Persona5main.ttf");
+}
+
+@font-face {
+	font-family: P5Menu;
+	src: url("../fonts/Persona5MenuFontPrototype-Regular.ttf");
+}
+

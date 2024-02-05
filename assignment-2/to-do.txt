@@ -1,0 +1,22 @@
+Header
+- Top hat logo (if I can find it)
+
+Body
+- lots of fonts...
+
+Footer
+- Atlus Logo
+- P Studios Logo
+- Sega Logo
+
+
+
+
+
+1. add custom fonts
+2. decide on which font goes where 
+  - header, footer, song sections
+3. add footer logos + copyright entity
+4. attempt to find top-hat or joker mask for header
+  - add it to header
+
